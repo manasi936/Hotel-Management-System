@@ -1,0 +1,15 @@
+***************Plan 1***************
+1.AC Room
+2.Do Not Disturb Tag
+3.2 Bedrooms
+4.Fridge
+5.5gb data daily
+**************************************
+
+****************Plan 2****************
+1.Non-AC Room
+2.Without Do Not Disturb Tag
+3.1 Bedroom
+4.No Fridge
+5.3gb data daily
+**************************************
